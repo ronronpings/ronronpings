@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **Full Stack Web Developer / Backend-focused Engineer** in the industry.
 - 💻 I specialize in building scalable web applications using **Laravel, React, Vue, and MySQL**.
-- 🌱 I’m currently learning more about **AWS Technologies** and aiming to get certified soon!
+- 🌱 I’m currently deepening my expertise in Node.js, building on my backend experience with Laravel.
 - 👯 I’m open to collaborating on side projects, startups, or freelance work.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I’m passionate about basketball — whether playing on the court or watching games, it’s my go-to way to stay active and competitive 🏀
